@@ -1,6 +1,6 @@
-ShopEase - E-Commerce Web Application 🛒
+MY SHOP - E-Commerce Web Application 🛒
 
-ShopEase is a simple and responsive e-commerce web application developed using HTML, CSS, JavaScript, and Node.js (Express).
+MY SHOP is a simple and responsive e-commerce web application developed using HTML, CSS, JavaScript, and Node.js (Express).
 This project demonstrates the core functionality of an online shopping platform, including product listing, cart management, 
 and dynamic user interaction.
 
